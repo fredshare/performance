@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![alt logo](extension/src/img/40.png "Title")
 performance
 =================
@@ -16,4 +17,10 @@ performance API 耗时统计
 
 ![alt text](performance.png "Title")
 
+=======
+performance
+===========
+
+performance 可视化chrome插件
+>>>>>>> a2d49f95d1bbbc38a10c28142782a2d1365c8289
 
