@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ![alt logo](extension/src/img/40.png "Title")
 performance
 =================
@@ -10,17 +10,11 @@ performance API 耗时统计
 打开chrome在地址栏输入chrome://extensions/打开插件管理页<br/>
 
 ### 效果图
-![alt text](screenshot.png "Title")
+
 
 ### performance timming时段结构图参考
 <br /><br /><br /><br />
 
 ![alt text](performance.png "Title")
 
-=======
-performance
-===========
-
-performance 可视化chrome插件
->>>>>>> a2d49f95d1bbbc38a10c28142782a2d1365c8289
 
