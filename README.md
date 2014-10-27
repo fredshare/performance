@@ -8,6 +8,8 @@ performance API 耗时统计
 ### 使用方法
 #### 安装chrome插件
 打开chrome在地址栏输入chrome://extensions/打开插件管理页<br/>
+勾选开发者模式<br/>
+点击“加载正在开发中的扩展程序”进行加载
 
 ### 效果图
 
