@@ -16,6 +16,6 @@ performance API 耗时统计
 ### performance timming时段结构图参考
 <br /><br /><br /><br />
 
-![alt text](/performance.png "Title")
+![alt text](/perfomance.png "Title")
 
 
